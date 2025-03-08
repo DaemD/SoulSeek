@@ -33,7 +33,12 @@ MODE_CONFIG_MAP = {
     "Motivation": os.getenv("HUME_CONFIG_ID_MOTIVATION"),
     "Reflection": os.getenv("HUME_CONFIG_ID_REFLECTION"),
     "Crisis": os.getenv("HUME_CONFIG_ID_CRISIS"),
-    "Sleep": os.getenv("HUME_CONFIG_ID_SLEEP")
+    "Sleep": os.getenv("HUME_CONFIG_ID_SLEEP"),
+    "Breathing": os.getenv("HUME_CONFIG_ID_BREATHING"),
+    "Grounding": os.getenv("HUME_CONFIG_ID_GROUNDING"),
+    "Visualization": os.getenv("HUME_CONFIG_ID_GUIDED"),
+    "Gratitude": os.getenv("HUME_CONFIG_ID_GRATITUDE"),
+    "Meditation": os.getenv("HUME_CONFIG_ID_MEDITATION")
 }
 
 # Get the appropriate config ID based on the mode
