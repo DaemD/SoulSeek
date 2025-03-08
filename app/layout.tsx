@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "SoulSpeak | Voice-Based AI Therapy",
   description: "A voice-based AI therapy companion for mental well-being",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
@@ -28,6 +27,3 @@ export default function RootLayout({
   )
 }
 
-
-
-import './globals.css'

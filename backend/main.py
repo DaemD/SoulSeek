@@ -1,7 +1,8 @@
 # backend/main.py
 from fastapi import FastAPI
-import subprocess
 from fastapi.middleware.cors import CORSMiddleware
+import subprocess
+import os
 
 app = FastAPI()
 
@@ -13,6 +14,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Path to the conversation log
+LOG_FILE_PATH = "conversation_log.txt"
+
 # Track the subprocess globally
 hume_process = None
 
@@ -21,18 +25,30 @@ hume_process = None
 async def read_root():
     return {"message": "Welcome to SoulSpeak Backend!"}
 
-# API endpoint to start the Hume AI session
+# 🟢 API endpoint to get the conversation log (merged from server.py)
+@app.get("/api/get-conversation")
+async def get_conversation():
+    if os.path.exists(LOG_FILE_PATH):
+        with open(LOG_FILE_PATH, "r", encoding="utf-8") as file:
+            return {"conversation": file.read()}
+    return {"conversation": ""}
+
+# 🟢 API endpoint to start the Hume AI session
 @app.get("/api/start-session/")
-async def start_session():
+async def start_session(mode: str = None):
     global hume_process
     if hume_process is None or hume_process.poll() is not None:
-        print("Received request to start session")
+        print(f"Received request to start session with mode: {mode}")
         try:
-            # Run the script
+            # Run the script with the mode parameter if provided
+            cmd = ["python", "hume_ai_script.py"]
+            if mode:
+                cmd.append(mode)
+                
             hume_process = subprocess.Popen(
-                ["python", "hume_ai_script.py"], stdout=subprocess.PIPE, stderr=subprocess.PIPE
+                cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE
             )
-            return {"status": "started", "message": "Hume AI session started!"}
+            return {"status": "started", "message": f"Hume AI session started with mode: {mode}!"}
         except FileNotFoundError:
             print("hume_ai_script.py not found.")
             return {"status": "error", "message": "hume_ai_script.py not found."}
@@ -42,7 +58,7 @@ async def start_session():
     else:
         return {"status": "running", "message": "Hume AI session is already running."}
 
-# API endpoint to stop the Hume AI session
+# 🟢 API endpoint to stop the Hume AI session
 @app.get("/api/stop-session/")
 async def stop_session():
     global hume_process
