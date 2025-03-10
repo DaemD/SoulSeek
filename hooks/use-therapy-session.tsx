@@ -5,12 +5,12 @@ import { useState, useCallback } from "react"
 export const useTherapySession = () => {
   const [isListening, setIsListening] = useState(false)
   const [isAiSpeaking, setIsAiSpeaking] = useState(false)
-  const [currentMode, setCurrentMode] = useState<string>("Calm")
-  const [transcript, setTranscript] = useState<string>("")
+  const [currentMode, setCurrentMode] = useState<string>("Lena Shore") // Default mode
+  const [transcript, setTranscript] = useState("")
 
-  const toggleListening = useCallback(() => {
+  const toggleListening = () => {
     setIsListening((prev) => !prev)
-  }, [])
+  }
 
   const updateTranscript = useCallback((newTranscript: string) => {
     setTranscript(newTranscript)
@@ -24,9 +24,9 @@ export const useTherapySession = () => {
     }, 2000)
   }, [])
 
-  const setTherapyMode = useCallback((mode: string) => {
+  const setTherapyMode = (mode: string) => {
     setCurrentMode(mode)
-  }, [])
+  }
 
   return {
     isListening,

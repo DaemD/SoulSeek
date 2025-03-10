@@ -119,7 +119,7 @@ async def main():
             # Start capturing audio from the default microphone and stream it to EVI
             await MicrophoneInterface.start(
                 socket,
-                allow_user_interrupt=True,
+                allow_user_interrupt=False,
                 byte_stream=websocket_handler.byte_strs
             )
     except Exception as e:
