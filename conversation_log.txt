@@ -1,0 +1,28 @@
+[2025-03-11 15:37:41] Session started with mode: Motivation
+ASSISTANT: Hey! I'm Theo. It's awesome that you're here today. I know you've got what it takes to handle whatever's on your mind. Let's talk about it—I'm excited to hear what you've been working on!
+USER: Hello?
+ASSISTANT: Hey there! It's great to connect with you!
+ASSISTANT: I can feel that determination bubbling up, and I just want you to know that you are so capable of achieving your goals.
+ASSISTANT: What's been on your mind?
+ASSISTANT: Let's dive in and explore it together! You've got this!
+[2025-03-11 15:39:57] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+[2025-03-11 15:41:43] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+[2025-03-11 15:44:58] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+[2025-03-11 15:48:52] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+[2025-03-11 15:50:05] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+[2025-03-11 15:55:23] Session started with mode: Reflection
+ASSISTANT: Hi, I'm Evelyn. It's really nice to connect with you. Take your time—there's no rush here. I'm curious to know what's been standing out in your mind lately.
+USER: Okay. Locksmiths.
+ASSISTANT: Locksmiths, that's an interesting topic!
+ASSISTANT: It sounds like there's a mix of feelings there—some fear, a bit of distress, and also some amusement.
+ASSISTANT: What do you think lies behind those feelings regarding locksmiths?
+ASSISTANT: Is there a particular experience or memory that comes to mind?
+[2025-03-11 15:59:14] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+[2025-03-11 16:01:04] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.

@@ -51,8 +51,18 @@ if not HUME_CONFIG_ID:
 else:
     print(f"Using config ID for mode {mode}: {HUME_CONFIG_ID}")
 
+
+async def log_message(message: str):
+    timestamp = datetime.now().strftime("[%Y-%m-%d %H:%M:%S]")
+    log_entry = f"{timestamp} {message}\n"
+    
+    print(f"LOGGING TO: {LOG_FILE_PATH}")  # DEBUG: See where it's writing
+    
+    with open(LOG_FILE_PATH, "a", encoding="utf-8") as log_file:
+        log_file.write(log_entry)
+
 # Define the log file path
-LOG_FILE_PATH = "conversation_log.txt"
+LOG_FILE_PATH = os.path.join(os.getcwd(), "backend/conversation_log.txt")
 
 # WebSocketHandler class to manage WebSocket connection and audio stream
 class WebSocketHandler:

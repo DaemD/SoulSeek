@@ -1,15 +1,13 @@
-[2025-03-10 12:55:41] Session started with mode: Calm
+[2025-03-11 16:15:35] Session started with mode: Calm
 ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
-USER: Whenever you're ready. Hello? Can you hear me?
-ASSISTANT: Yes, I can hear you, and I'm right here with you.
-ASSISTANT: It's okay to feel a mix of emotions.
-ASSISTANT: Take a moment to notice how you feel without any judgment—just allow those feelings to be.
-ASSISTANT: Let's ground ourselves together.
-ASSISTANT: If you can, look around you and find five things you can see.
-ASSISTANT: Perhaps a picture on the wall, a plant, or the light coming in through the window.
-ASSISTANT: Take a moment to really notice them.
-ASSISTANT: When you're ready, you can share what you see, or we can just take this one breath at a time together.
-ASSISTANT: Remember, it's perfectly okay to feel this way. You are safe here.
-[2025-03-10 12:58:19] Session started with mode: Sleep
-ASSISTANT: Hi there, I'm Isla. It's time to let go of today's worries. If you're comfortable, close your eyes and take a slow, deep breath with me. We'll go at a gentle pace.
-[2025-03-10 12:58:38] Session ended
+USER: Hello.
+ASSISTANT: Thank you for sharing how you're feeling.
+ASSISTANT: It's okay to have mixed emotions—boredom and amusement can coexist.
+ASSISTANT: Let's take a moment to check in with your body.
+ASSISTANT: Would you like to try a grounding technique?
+ASSISTANT: Let's start with the five, four, three, two, one method.
+ASSISTANT: Look around you. Can you identify five things you see?
+ASSISTANT: Really take in the details.
+ASSISTANT: When you're ready, let me know what you see.
+USER: Can you hear me?
+ASSISTANT: I can hear you, and I want you to know that it's okay to feel sad, pained, or distressed.
