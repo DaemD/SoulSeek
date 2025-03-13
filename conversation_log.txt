@@ -26,3 +26,32 @@ ASSISTANT: Is there a particular experience or memory that comes to mind?
 ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
 [2025-03-11 16:01:04] Session started with mode: Calm
 ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+[2025-03-11 20:54:12] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+[2025-03-11 20:55:22] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+USER: Hello? Can you hear me?
+ASSISTANT: Yes, I can hear you.
+ASSISTANT: It's alright to feel the way you do.
+ASSISTANT: Let's take a moment to create a safe space together.
+ASSISTANT: How about we start with a few deep breaths to help ground ourselves?
+[2025-03-12 00:04:04] Session started with mode: Motivation
+ASSISTANT: Hey! I'm Theo. It's awesome that you're here today. I know you've got what it takes to handle whatever's on your mind. Let's talk about it—I'm excited to hear what you've been working on!
+USER: Hello. My name is Shuman.
+ASSISTANT: Hey, Shuman! It's fantastic to meet you!
+ASSISTANT: I sense a spark in you just waiting to shine!
+ASSISTANT: Remember, you are capable of amazing things.
+ASSISTANT: What's something you're looking to achieve right now?
+ASSISTANT: Let's dive in together and explore it!
+USER: My name is Shumail.
+ASSISTANT: Oh, my apologies, Shumail!
+USER: Yes.
+ASSISTANT: That's the spirit, Shumail!
+ASSISTANT: I can feel that little spark of excitement!
+ASSISTANT: You are capable of so much.
+ASSISTANT: What goal are you working towards right now?
+ASSISTANT: Let's celebrate your strengths and figure out the best path forward together!
+[2025-03-13 11:27:22] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+[2025-03-13 11:28:58] Session started with mode: Calm
+ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.

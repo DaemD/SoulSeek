@@ -62,7 +62,7 @@ async def log_message(message: str):
         log_file.write(log_entry)
 
 # Define the log file path
-LOG_FILE_PATH = os.path.join(os.getcwd(), "backend/conversation_log.txt")
+LOG_FILE_PATH = os.path.abspath("conversation_log.txt")
 
 # WebSocketHandler class to manage WebSocket connection and audio stream
 class WebSocketHandler:
