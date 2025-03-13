@@ -55,3 +55,20 @@ ASSISTANT: Let's celebrate your strengths and figure out the best path forward t
 ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
 [2025-03-13 11:28:58] Session started with mode: Calm
 ASSISTANT: Hi there, I'm Lena. I'm so glad you're here. Let's take a deep breath together—inhale, and exhale. Whenever you're ready, share what's on your mind. There's no rush. We can take things one step at a time.
+[2025-03-13 11:38:34] Session started with mode: Crisis
+ASSISTANT: Hey, I'm Sam. I can tell things might be tough right now, and I want you to know you're not alone. I'm right here with you. Let's take a breath together—nice and slow.
+USER: Hello. How are you?
+ASSISTANT: Hello! I appreciate you checking in with me.
+ASSISTANT: I'm here to support you.
+ASSISTANT: It's great to hear a bit of calmness in your voice.
+ASSISTANT: Can you tell me how you're feeling right now?
+USER: I'm filling a delt.
+USER: Today.
+ASSISTANT: It sounds like you're going through a lot today, and that's completely okay to feel that way.
+ASSISTANT: I'm here with you. Can you say a bit more about what's making you feel sad or anxious?
+ASSISTANT: You're not alone in this.
+USER: K.
+ASSISTANT: It's alright to feel a mix of emotions.
+ASSISTANT: I'm glad you're sharing this with me.
+ASSISTANT: Can you take a moment to notice what's around you?
+ASSISTANT: What can you feel in this moment?
